@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arohmishra
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ programing
+- 🌱 I’m currently learning  programing
 
 
 <!---
